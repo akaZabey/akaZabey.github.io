@@ -1,0 +1,7 @@
+<map id="my_tester" name="my_tester">
+<area shape="rect" id="node1" href="dir_ee08ceeec208d225a14889578a3ade7b.html" title="my_tester" alt="" coords="56,5,136,53"/>
+<area shape="rect" id="node2" href="dir_93fb14fc97893950a086f4fa00607cac.html" title="my_struct" alt="" coords="5,101,85,149"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000002_000001.html" title="1" alt="" coords="70,82,78,97"/>
+<area shape="rect" id="node3" href="dir_4b5924ff9f2e2fd067eaeb457a9606a0.html" title="my_timer" alt="" coords="110,101,186,149"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000002_000003.html" title="2" alt="" coords="130,74,138,89"/>
+</map>
